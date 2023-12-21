@@ -1,0 +1,3 @@
+Practicar el formato de párrafo, alineaciones, bordes y sombreados.
+El texto al que se deberá aplicar formato se encuentra en el fichero 
+Ejercicio 6.txt.

@@ -1,0 +1,8 @@
+Mexicano:carne, tomate, picante, pimiento:5.50:12
+Alioli:carne, lechuga, bacon, alioli:5:8
+Cheese burger:carne, cebolla, cheddar, lechuga, tomate, mahonesa:5:23
+Barbacoa:carne, bacon, cebolla, cheddar, lechuga, tomate, mayonesa, barbacoa:5:15
+Vegetal:carne, cebolla, lechuga, tomate, mayonesa:4.50:20
+Basica:carne:3.75:25
+
+
